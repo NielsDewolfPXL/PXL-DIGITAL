@@ -1,3 +1,0 @@
-source of . = sourcing => script wordt uitgevoerd op huidige shell
-shift = naar links verschuiven (die vorige variabelen worden verwijderd)
-
